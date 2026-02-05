@@ -1,6 +1,6 @@
 # CI/CD Pipeline with Docker and Github Actions
 
-![CI](https://github.com/RashmiDulashani/Docker-Automation/actions/workflows/build.yaml/badge.svg)
+![CI](https://github.com/RashmiDulashani/Docker-Automation/actions/workflows/docker-build.yaml/badge.svg)
 
 Here is a comprehensive image of what we are going to implement.
 
