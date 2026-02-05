@@ -1,5 +1,7 @@
 # CI/CD Pipeline with Docker and Github Actions
 
+![CI](https://github.com/RashmiDulashani/Docker-Automation/actions/workflows/build.yaml/badge.svg)
+
 Here is a comprehensive image of what we are going to implement.
 
 ![Untitled-2024-10-21-0950](https://github.com/user-attachments/assets/9fc455cb-3067-4fb0-b4db-9df2962a2d60)
